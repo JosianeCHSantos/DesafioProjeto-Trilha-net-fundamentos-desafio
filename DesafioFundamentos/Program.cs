@@ -32,7 +32,7 @@ while (exibirMenu)
     switch (Console.ReadLine())
     {
         case "1":
-            es.AdicionarVeiculo();
+            es.AdicioneUmNovoVeiculo();
             break;
 
         case "2":
